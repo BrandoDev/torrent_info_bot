@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Once one of my friend told me: "Why do you don't do a telegram bot to check torrent informations"
+Once one of my friend told me: "Why do you don't do a telegram bot to check torrent informations"\n
 So here we are.
 
 Dependencies & Their Versions
@@ -11,7 +11,6 @@ Dependencies & Their Versions
 
 Installation
 ============
-.. code:: shell
 
     $ git clone https://github.com/BrandoDev/torrent_info_bot.git && pip install -r requirements.txt
 
@@ -19,8 +18,8 @@ Installation
 Set Up
 ============
 
-You have to create folders "files" and "logs"
-After the first start of the bot, you'll see a config.ini file;
+You have to create folders "files" and "logs";\n
+After the first start of the bot, you'll see a config.ini file;\n
 here you have to set up your Telegram Bot Token and something about your qBittorrent Web interface
 
 Demo
