@@ -29,6 +29,9 @@ You can use my telegram bot https://t.me/torrentinfo_bot to check the features
 
 ![Bot features example](https://github.com/BrandoDev/torrent_info_bot/blob/main/images/image0.png?raw=true)
 
+DISCLAIMER
+============
+This is only for educational purposes, no copyright infringement intended at all
 
 
 Contributing
