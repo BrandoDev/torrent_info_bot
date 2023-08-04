@@ -1,0 +1,2 @@
+python-telegram-bot==20.4
+qbittorrent_api==2023.7.52
