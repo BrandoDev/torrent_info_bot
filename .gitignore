@@ -161,5 +161,4 @@ cython_debug/
 
 logs/
 config.ini
-file.torrent
 files/
