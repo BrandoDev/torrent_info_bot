@@ -4,7 +4,7 @@ Introduction
 Once one of my friend told me: "Why do you don't do a telegram bot to check torrent informations"<br />
 So here we are.
 
-Dependencies & Their Versions
+Dependencies
 ============
 * ``pip install "python-telegram-bot"`` installs the Telegram library
 * ``pip install "qbittorrent_api"`` installs the qBittorrent Web API
@@ -26,6 +26,12 @@ Demo
 ============
 
 You can use my telegram bot https://t.me/torrentinfo_bot to check the features
+
+.. image:: https://github.com/BrandoDev/torrent_info_bot/blob/7654f32e784b0a75d3ad851bb75ffece40d3c250/images/image0.png
+   :align: center
+   :alt: Bot features example
+
+
 
 Contributing
 ============
