@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Once one of my friend told me: "Why do you don't do a telegram bot to check torrent informations"\n
+Once one of my friend told me: "Why do you don't do a telegram bot to check torrent informations"<br />
 So here we are.
 
 Dependencies & Their Versions
@@ -18,8 +18,8 @@ Installation
 Set Up
 ============
 
-You have to create folders "files" and "logs";\n
-After the first start of the bot, you'll see a config.ini file;\n
+You have to create folders "files" and "logs";<br />
+After the first start of the bot, you'll see a config.ini file;<br />
 here you have to set up your Telegram Bot Token and something about your qBittorrent Web interface
 
 Demo
