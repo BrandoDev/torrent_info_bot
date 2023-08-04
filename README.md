@@ -27,9 +27,7 @@ Demo
 
 You can use my telegram bot https://t.me/torrentinfo_bot to check the features
 
-.. image:: https://github.com/BrandoDev/torrent_info_bot/blob/7654f32e784b0a75d3ad851bb75ffece40d3c250/images/image0.png
-   :align: center
-   :alt: Bot features example
+![Bot features example](https://github.com/BrandoDev/torrent_info_bot/blob/main/images/image0.png?raw=true)
 
 
 
